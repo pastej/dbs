@@ -1,6 +1,7 @@
 ---
 layout: project
 title: The Chair
+order: 1
 summary: |
   This is the summary text of the project.
 image: /assets/images/the-chair-2.jpg

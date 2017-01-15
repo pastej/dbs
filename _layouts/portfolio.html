@@ -10,7 +10,8 @@ layout: default
 
     </header>
     <section class="tiles">
-      {% for project in site.projects %}
+      {% assign projects = site.projects | sort: 'order' %}
+      {% for project in projects %}
         <article class="style1">
           <span class="image">
             <img src="{{ project.image | relative_url }}" alt="" />

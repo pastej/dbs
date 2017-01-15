@@ -37,11 +37,8 @@
 		}
 
 		nav {
-			position: absolute;
-			right: 2em;
-			top: 2em;
-			z-index: _misc(z-index-base);
-
+			display: inline-block;
+			float: right;
 			ul {
 				@include vendor('display', 'flex');
 				@include vendor('align-items', 'center');

@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<div id="main">
+  <div class="inner">
+    <h1>{{ page.title }}</h1>
+    <p>{{ page.summary }}</p>
+    <div class="box alt">
+      <div class="row uniform">
+        {% for image in page.images %}
+        <div class="4u"><span class="image fit"><img src="{{ image }}" alt="" /></span></div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</div>

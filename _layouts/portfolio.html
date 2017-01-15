@@ -1,0 +1,28 @@
+---
+layout: default
+---
+<!-- Main -->
+<div id="main">
+  <div class="inner">
+    <header>
+      <h1>{{ page.header | upcase }}</h1>
+      <p>{{ page.summary | markdownify }}</p>
+
+    </header>
+    <section class="tiles">
+      {% for project in site.projects %}
+        <article class="style1">
+          <span class="image">
+            <img src="{{ project.image | relative_url }}" alt="" />
+          </span>
+          <a href="{{ project.url }}">
+            <h2>{{ project.title }}</h2>
+            <div class="content">
+              <p>{{ project.excerpt }}</p>
+            </div>
+          </a>
+        </article>
+      {% endfor %}
+    </section>
+  </div>
+</div>

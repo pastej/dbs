@@ -6,8 +6,9 @@ layout: default
   <div class="inner">
     <header>
       <h1>{{ page.header | upcase }}</h1>
+      {% if page.summary %}
       <p>{{ page.summary | markdownify }}</p>
-
+      {% endif %}
     </header>
     <section class="tiles">
       {% assign projects = site.projects | sort: 'order' %}

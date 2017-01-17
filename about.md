@@ -3,4 +3,8 @@ layout: about
 title: About
 permalink: /about/
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel venenatis mauris vehicula hendrerit.
+My name is Sarab Shihab, I live in Sweden and study Industrial Design at the University of Gävle. I'm finishing my Bachelor's degree this spring of 2017.
+
+I design everything for the home, with a focus on furniture. My style is clean and simple, I like to combine soft and hard shapes and materials.
+
+I have previously studied two years at the School of Architecture, Lund University. That's where my interest in design first started growing. I want to combine design and architecture in my work, I believe they complement each other.

@@ -57,7 +57,7 @@
 						line-height: 3em;
 						padding: 0 1.5em;
 						background-color: transparentize(_palette(bg), 0.5);
-						border-radius: _size(border-radius);
+						//border-radius: _size(border-radius);
 						border: 0;
 						font-size: 0.8em;
 						font-weight: _font(weight-bold);
@@ -113,12 +113,16 @@
 		}
 
 		@include breakpoint(small) {
-			@include padding(3em, 0, (1em, 0, -3em, 0));
+			@include padding(0, 0, (1em, 0, -3em, 0));
 
+			.logo {
+				text-align: center;
+				display: block;
+				margin: 0 0 1em 0;
+			}
 			nav {
-				right: 0.5em;
-				top: 0.5em;
-
+				float: none;
+				margin: 0 0 1em 0;
 				ul {
 					li {
 						a[href="#menu"] {

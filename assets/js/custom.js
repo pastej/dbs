@@ -1,5 +1,9 @@
 $(function() {
 
+  lightbox.option({
+    'alwaysShowNavOnTouchDevices': true
+  })
+
     $("#contact-check").hide();
     //hang on event of form with id=myform
     $("#contact-form").submit(function(e) {

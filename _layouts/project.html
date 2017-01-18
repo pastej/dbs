@@ -5,9 +5,11 @@ layout: default
 <div id="main">
   <div class="inner">
     <h1>{{ page.title | upcase }}</h1>
+    <div class="text-container">
     {% for paragraph in page.paragraphs %}
       <p>{{ paragraph }}</p>
     {% endfor %}
+    </div>
     <div class="box alt">
       <div class="row uniform">
         {% for image in page.images %}

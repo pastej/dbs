@@ -14,6 +14,6 @@ I created "Ray" as a group project together with Joakim Holmer and Ludwig Löwf 
 
 The goal of the project was to create a concept for an indoor environment in form of a product that contribute to a better quality of life.
 
-The client of the project was [Greenworks](http://greenwork.se/).
+The client of the project was [Greenworks](http://greenwork.se/){:target="_blank"}.
 
 Materials: Oak, concrete, metal and LED lighting.

@@ -11,7 +11,7 @@ layout: default
       {% endif %}
     </header>
     <section class="tiles">
-      {% assign projects = site.projects | sort: 'order' %}
+      {% assign projects = site.projects | sort: 'order' | reverse %}
       {% for project in projects %}
         <article class="style1">
           <span class="image">
@@ -20,7 +20,6 @@ layout: default
           <a href="{{ project.url }}">
             <h2>{{ project.title }}</h2>
             <div class="content">
-              <p>{{ project.excerpt }}</p>
             </div>
           </a>
         </article>

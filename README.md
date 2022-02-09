@@ -14,7 +14,7 @@ images: // This is a list of images to display on the page, limit to 3.
   - /assets/images/booth-1.jpg 
   - /assets/images/booth-2.jpg
   - /assets/images/booth-3.jpg  
---- // Below this line is where the content starts. It is using [markdown](https://www.markdownguide.org/cheat-sheet/){:target="_blank"} syntax.
+--- // Below this line is where the content starts. It is using markdown (https://www.markdownguide.org/cheat-sheet/) syntax.
 Base10 is a co-working center for tech-startups based in Uppsala. For my Industrial Design thesis work I designed a phone booth for them.
 
 The goal of the project was to create a furniture that could be used in the busy open areas for people that needed to take a call or a Skype meeting on-the-go. The result was a sound-absorbant phone booth, designed to fit in with the interior style of the co-working center.

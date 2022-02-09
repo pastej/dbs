@@ -3,8 +3,14 @@ layout: about
 title: About
 permalink: /about/
 ---
-Hi! My name is Sarab Shihab, I am an Industrial Designer based in Sweden.
+Hi! My name is Sarab Sundin, I am a Designer based in Uppsala, Sweden.
 
-I design everything for the home, with a focus on furniture. My style is clean and simple, I like to combine soft and hard shapes and materials.
+I have a bachelor's degree in Industrial Design from the University of Gävle.
 
-I finished my Industrial Design studies at the University of Gävle in 2018. Previously I have studied two years at the School of Architecture, Lund University. That’s where my interest in design first started growing. Architecture is still a big interest of mine, I hope to incorporate it in my work as an Industrial designer.
+I have always been interested in psychology and especially human behavior. During my many years in the service profession, I have accumulated a lot of experience of how people work. This is something that has increased my interest in the area even more.
+
+That's why I also chose to take a practical course, in which I work my way through the entire UX design process from research to a finished prototype. The purpose for me has been to gain better insight into UX design and also broaden my knowledge as a designer.
+
+I want to work with both industrial design and UX design and hope to be able to use my knowledge within these areas in my future job.
+
+I am now looking for an internship or junior position in industrial design or UX design. I feel confident that I will quickly be able to contribute a lot if I get the chance.

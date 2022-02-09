@@ -6,20 +6,10 @@ layout: default
   <div class="inner">
     <h1>{{ page.title | upcase }}</h1>
     <section>
-			<h2>Say Hello</h2>
-			<form method="post" action="#" id="contact-form">
-				<div class="field half first">
-					<input type="email" name="email" id="email" placeholder="Email" />
-				</div>
-				<div class="field">
-					<textarea name="text" id="text" placeholder="Message"></textarea>
-				</div>
-        <input type="text" name="_gotcha" style="display:none" />
-				<ul class="actions">
-					<li><input type="submit" value="Send" class="special" /></li>
-          <i id="contact-check" class="fa fa-check-circle-o" aria-hidden="true"></i>
-				</ul>
-			</form>
-		</section>
+	<h2>Say Hello</h2>
+		<p>
+		Don't be a stranger, reach out at <a href="mailto:{{site.email}}">{{site.email}}</a>.
+	    	</p>
+    </section>
   </div>
 </div>

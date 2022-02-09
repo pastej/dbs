@@ -8,7 +8,7 @@ Below is a description of the contents of the file and what it means. The part p
 ---
 layout: project // This should always be project, it decides what layout should be used for the page.
 title: Phone Booth // The title of the project.
-order: 3 // This is used for sorting the projects, a higher means the project comes first in the list.
+order: 3 // This is used for sorting the projects, a higher number means the project comes first in the list. Increment the last used number when adding a project.
 image: /assets/images/booth-1.jpg // This is the image to use on the portfolio page. See image section for details.
 images: // This is a list of images to display on the page, limit to 3.
   - /assets/images/booth-1.jpg 

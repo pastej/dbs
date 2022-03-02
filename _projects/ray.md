@@ -1,6 +1,7 @@
 ---
 layout: project
 title: Ray
+category: id
 order: 2
 image: /assets/images/ray-1.jpg
 images:

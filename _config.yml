@@ -16,7 +16,7 @@
 title: Design by Sarab
 email: hello@designbysarab.com
 description: > # this means to ignore newlines until "baseurl:"
-  The personal website and portfolio of Sarab Shihab
+  The personal website and portfolio of Sarab Sundin
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://designbysarab.com" # the base hostname & protocol for your site, e.g. http://example.com
 google_analytics: UA-90736701-1

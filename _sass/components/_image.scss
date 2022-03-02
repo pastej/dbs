@@ -6,6 +6,22 @@
 
 /* Image */
 
+	
+	.flyux {
+
+		h2 {
+			padding-top: 1.5em;
+		}
+
+		.flyux-project-image {
+			border: solid 1px _palette(border);
+		}
+	
+		.flyux-project-download {
+			width: 5em !important;
+		}
+	}
+
 	.image {
 		border-radius: _size(border-radius);
 		border: 0;

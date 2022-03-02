@@ -1,6 +1,7 @@
 ---
 layout: project
 title: Phone Booth
+category: id
 order: 3
 image: /assets/images/booth-1.jpg
 images:

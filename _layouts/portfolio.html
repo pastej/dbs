@@ -10,9 +10,30 @@ layout: default
       <p>{{ page.summary | markdownify }}</p>
       {% endif %}
     </header>
+    <p>
+      <h2>UX Design</h2>
+    </p> 
     <section class="tiles">
-      {% assign projects = site.projects | sort: 'order' | reverse %}
-      {% for project in projects %}
+      {% assign ux_projects = site.projects | where: 'category', 'ux' | sort: 'order' | reverse %}
+      {% for project in ux_projects %}
+        <article class="style1">
+          <span class="image">
+            <img src="{{ project.image | relative_url }}" alt="" />
+          </span>
+          <a href="{{ project.url }}">
+            <h2>{{ project.title }}</h2>
+            <div class="content">
+            </div>
+          </a>
+        </article>
+      {% endfor %}
+    </section>
+    <p>
+      <h2>Industrial Design</h2>
+    </p>  
+    <section class="tiles">
+      {% assign id_projects = site.projects | where: 'category', 'id' | sort: 'order' | reverse %}
+      {% for project in id_projects %}
         <article class="style1">
           <span class="image">
             <img src="{{ project.image | relative_url }}" alt="" />

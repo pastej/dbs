@@ -1,6 +1,7 @@
 ---
 layout: project
 title: The Chair
+category: id
 order: 1
 image: /assets/images/the-chair-1.jpg
 images:

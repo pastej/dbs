@@ -13,4 +13,4 @@ That's why I also chose to take a practical course, in which I work my way throu
 
 I want to work with both industrial design and UX design and hope to be able to use my knowledge within these areas in my future job.
 
-I am now looking for an internship or junior position in industrial design or UX design. I feel confident that I will quickly be able to contribute a lot if I get the chance.
+I am now looking for a junior position in industrial design or UX design. I feel confident that I will quickly be able to contribute a lot if I get the chance.

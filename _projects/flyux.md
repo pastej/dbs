@@ -35,7 +35,7 @@ image: /assets/images/flyux-interaction-design-11.jpg
         <h2>Competitive benchmark</h2>
         <p>
             <span class="image right">
-            <div class="text-container">
+            f<div class="text-container">
                 <p>
                 The task was to review four travel websites or four travel mobile apps and benchmark them to see what they are doing well. Then use the outcome when designing my own airline website or app at the end of the course.
                 </p>
@@ -346,10 +346,9 @@ The task of this project was to review all research conducted in previous projec
         <p>
             <div class="text-container">
                 <p>
-
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F0QWAHPh4Q28D02fHZv47Qy%2FFlyUX%3Fpage-id%3D0%253A1%26node-id%3D7%253A4%26viewport%3D241%252C48%252C0.49%26scaling%3Dscale-down%26starting-point-node-id%3D7%253A4" allowfullscreen></iframe>
                 </p>
             </div>
-            <p><i>Will be uploaded shortly</i></p>
         </p>
     </div>
     
@@ -359,10 +358,9 @@ The task of this project was to review all research conducted in previous projec
         <p>
             <div class="text-container">
                 <p>
-
                 </p>
             </div>
-            <p><i>Will be uploaded shortly</i></p>
+            <a href="/assets/files/flyux-wireframes.pdf"><img class="flyux-project-download" src="{{ '/assets/images/pdf-icon.png' | relative_url }}" alt="Download project" /></a>
         </p>
     </div>
     

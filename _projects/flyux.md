@@ -3,7 +3,7 @@ layout: default
 title: FlyUX
 category: ux
 order: 100
-image: /assets/images/flyux-interaction-design-11.jpg
+image: /assets/images/flyux-tile.jpg
 ---
 
 <div id="main">

@@ -28,10 +28,9 @@ layout: default
       {% endfor %}
     </div>
     </section>
-    <p>
+    <section>
       <h2>Industrial Design</h2>
-    </p>  
-    <section class="tiles">
+      <div class="tiles">
       {% assign id_projects = site.projects | where: 'category', 'id' | sort: 'order' | reverse %}
       {% for project in id_projects %}
         <article class="style1">
@@ -45,6 +44,7 @@ layout: default
           </a>
         </article>
       {% endfor %}
+      </div>
     </section>
   </div>
 </div>

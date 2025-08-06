@@ -23,7 +23,7 @@
 			));
 			position: relative;
 			width: calc(#{(100% / 3)} - #{$gutter * 1});
-			margin: $gutter 0 0 $gutter;
+			margin: 0 0 $gutter $gutter;
 
 			> .image {
 				@include vendor('transition', 'transform #{$duration} #{$ease}');
@@ -167,7 +167,7 @@
 						@include vendor('transform', 'scale(1.1)');
 
 						&:before {
-							background-color: _palette(accent1);
+							background-color: _palette(fg); // This is the color for tile hover 
 							opacity: 0.5;
 						}
 

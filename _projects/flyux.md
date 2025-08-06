@@ -35,7 +35,7 @@ image: /assets/images/flyux-interaction-design-11.jpg
         <h2>Competitive benchmark</h2>
         <p>
             <span class="image right">
-            f<div class="text-container">
+            <div class="text-container">
                 <p>
                 The task was to review four travel websites or four travel mobile apps and benchmark them to see what they are doing well. Then use the outcome when designing my own airline website or app at the end of the course.
                 </p>

@@ -23,3 +23,9 @@ gem "minima", "~> 2.0"
 group :jekyll_plugins do
    gem "jekyll-feed", "~> 0.6"
 end
+
+gem "webrick", "~> 1.9"
+gem "csv", "~> 3.3"
+gem "base64", "~> 0.3.0"
+gem "bigdecimal", "~> 3.2"
+gem "logger", "~> 1.7"

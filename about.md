@@ -3,10 +3,10 @@ layout: about
 title: About
 permalink: /about/
 ---
-Hi! My name is Sarab Sundin, I am a Designer based in Uppsala, Sweden.
+Hi, I’m Sarab – a designer with a deep interest in people, behavior and the small details that make a big difference.
 
-I have a bachelor's degree in Industrial Design from the University of Gävle and a professional diploma in UX Design.
+My background in industrial design, art and service has taught me how to balance structure with empathy – and how to design with real users in mind. I’m especially drawn to accessibility design, interaction design and UI, where clear, thoughtful solutions can genuinely help people in their everyday lives.
 
-This is my online portfolio, where I collect my projects for you to see.
+Outside of design, I enjoy photography and experimenting in the kitchen – trying new recipes is one of my favorite ways to stay creative.
 
-Please [reach out](/contact) if you think I could help you!
+Please [reach out](/contact) if you want to talk!

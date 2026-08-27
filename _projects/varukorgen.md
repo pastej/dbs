@@ -13,7 +13,7 @@ image: /assets/images/varukorgen-tile.jpg
     <section>
     <div class="text-container">
       <p>
-      This was an individual assignment in the UI Design course at Nackademin. The task was to design an app for express grocery delivery within 10 minutes, aimed at city dwellers with spontaneous needs – like dinner ingredients, breakfast cravings, or emergency items like toilet paper.
+      This was an individual assignment in the UI Design course at Nackademin 2025. The task was to design an app for express grocery delivery within 10 minutes, aimed at city dwellers with spontaneous needs – like dinner ingredients, breakfast cravings, or emergency items like toilet paper.
       </p>
 
       <p>

@@ -11,7 +11,7 @@ image: /assets/images/flyux-tile.jpg
     
     <h1>FlyUX</h1>
     <div class="text-container">
-      <p>This is a project I worked on while taking the <a href="https://www.uxdesigninstitute.com/courses/ux-design" target="_blank">UX Design course</a> at the UX Design Institute.</p>
+      <p>This is a project I worked on while taking the <a href="https://www.uxdesigninstitute.com/courses/ux-design" target="_blank">UX Design course</a> at the UX Design Institute 2020.</p>
 
       <p>The project objective was to design an airline app by going through the full UX process - from research to prototype.</p>
 

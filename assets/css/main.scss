@@ -97,3 +97,90 @@
 		}
 	}
 
+	.mycamper {
+		.project-media {
+			margin-left: 0;
+			margin-right: 0;
+			max-width: 720px;
+		}
+
+		.project-split {
+			margin-bottom: _size(element-margin);
+
+			.project-figure {
+				margin: 1.5em 0 0 0;
+				max-width: 250px;
+			}
+
+			@include breakpoint(small) {
+				.project-figure {
+					margin: 1.5em 0 0 0;
+					max-width: 230px;
+				}
+			}
+		}
+
+		.project-figure {
+			margin: 0 0 _size(element-margin) 0;
+			max-width: 720px;
+
+			a {
+				border-bottom: 0;
+				display: block;
+			}
+
+			img {
+				border-radius: _size(border-radius);
+				display: block;
+				width: 100%;
+			}
+
+			figcaption,
+			& + .project-caption {
+				color: _palette(fg-light);
+				font-size: 0.9em;
+				margin-top: 0.75em;
+			}
+
+			&--phone {
+				margin-left: 0;
+				margin-right: 0;
+				max-width: 250px;
+			}
+
+			&--preview {
+				a {
+					cursor: zoom-in;
+					max-height: 680px;
+					overflow: hidden;
+					position: relative;
+
+					&:after {
+						@include vendor('pointer-events', 'none');
+						background: linear-gradient(to bottom, rgba(255, 255, 255, 0), #ffffff 95%);
+						bottom: 0;
+						content: '';
+						height: 32%;
+						left: 0;
+						position: absolute;
+						width: 100%;
+					}
+				}
+
+				@include breakpoint(small) {
+					a {
+						max-height: 520px;
+					}
+				}
+			}
+		}
+
+		.project-caption {
+			color: _palette(fg-light);
+			font-size: 0.9em;
+			margin: 0.75em 0 _size(element-margin) 0;
+			max-width: 720px;
+			text-align: left;
+		}
+	}
+
